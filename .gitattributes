@@ -1,4 +1,8 @@
 * text=auto
 
-*.cpp text diff=cpp
-*.h text diff=cpp
+#*.cpp text diff=cpp
+#*.h text diff=cpp
+
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+
